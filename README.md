@@ -1,8 +1,11 @@
+
 # 👩‍💻 Rishni Perera
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Frontend+%26+UI%2FUX+Enthusiast;Mobile+Application+Developer;Turning+Ideas+Into+Digital+Experiences)
 
-
-\<p align="center">   \<img src="[https://img.shields.io/badge/Software-Development-58A6FF?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/Software-Development-58A6FF?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/UI%2FUX-Design-BC8CFF?style=for-the-badge&logo=figma&logoColor=white](https://img.shields.io/badge/UI%2FUX-Design-BC8CFF?style=for-the-badge\&logo=figma\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Always-Learning-3FB950?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Always-Learning-3FB950?style=for-the-badge\&logo=github\&logoColor=white)" /> \</p>
+![Software Development](https://img.shields.io/badge/Software_Development-58A6FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![UI UX Design](https://img.shields.io/badge/UI%2FUX_Design-BC8CFF?style=for-the-badge&logo=figma&logoColor=white)
+![Always Learning](https://img.shields.io/badge/Always_Learning-3FB950?style=for-the-badge&logo=github&logoColor=white)
 
 ### ✨ Building meaningful digital experiences through code and creativity.
 
@@ -10,9 +13,9 @@
 
 ## 🌌 About Me
 
-Hello! I'm **Rishni**, an aspiring software developer passionate about building creative, user-friendly and meaningful digital experiences.
+Hello! I'm **Rishni**, an aspiring software developer passionate about creating creative, user-friendly and meaningful digital experiences.
 
-I'm currently completing my **BSc (Hons) in Computing** and developing my skills through academic projects, practical experience and continuous learning.
+I'm currently completing my **BSc (Hons) in Computing** and continuously developing my skills through academic projects and practical learning.
 
 - 🎓 Final-year Computing undergraduate.
 - 💻 Interested in Frontend and Mobile Application Development.
@@ -25,61 +28,54 @@ I'm currently completing my **BSc (Hons) in Computing** and developing my skills
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
+**Programming Languages**
 
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+**Frameworks & Platforms**
 
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
+**Design & Development Tools**
 
-\
-
-
-### Frameworks & Platforms
-
-
-
-\
-
-
-### Design & Development Tools
-
-
-
-
-\
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-A showcase of my academic and personal development projects.
-
 ### 📚 01. BookAlchemist — iOS Application
 
-An iOS reading application designed to make reading more engaging through personal libraries, progress tracking, gamification and community interaction.
+An iOS application designed to make reading more engaging through personal libraries, progress tracking, gamification and community interaction.
 
 **Technologies:** Swift · SwiftUI · Firebase · Xcode
 
 **Key Features:**
-
 - Personal Reading Library
 - Reading Progress & Streak Tracking
 - Reading Challenges & Gamification
 - Community & Reader Interaction
 - App Intents & App Shortcuts
 
-
-
----
+[![View BookAlchemist](https://img.shields.io/badge/VIEW_PROJECT-BookAlchemist-58A6FF?style=for-the-badge&logo=github)](https://github.com/RishniPerera/BookAlchemist)
 
 ### 🚦 02. Traffic Simulation Game
 
-A Python-based traffic simulation project focused on exploring programming concepts and developing interactive simulation functionality.
+A Python-based traffic simulation project focused on programming concepts and interactive simulation functionality.
 
 **Technology:** Python
-
----
 
 ### 🎨 03. Oxfordia Institute — LMS UI/UX Design
 
@@ -87,57 +83,43 @@ A Learning Management System interface designed in Figma, focusing on user exper
 
 **Technology:** Figma
 
----
-
 ### 🌳 04. Wisdom Grove Institute — Application
 
 An educational application project combining interface design and application development.
 
 **Technologies:** Figma · Android Studio · Python
 
----
-
-
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&logo=github)](https://github.com/RishniPerera?tab=repositories)
 
 ---
 
 ## 📊 GitHub Analytics
 
-\<p align="center">
-&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=RishniPerera&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=RishniPerera\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub Statistics" />
-&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=RishniPerera&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=RishniPerera\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most Used Languages" />
-\</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishniPerera&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishniPerera&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 Contribution Streak
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=RishniPerera&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=RishniPerera\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak" />
-\</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=RishniPerera&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-\<p align="center">
-&#x20; \<img src="[https://github-profile-trophy.vercel.app/?username=RishniPerera&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1](https://github-profile-trophy.vercel.app/?username=RishniPerera\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&row=1)" alt="GitHub Trophies" />
-\</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RishniPerera&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
 
 ---
 
 ## 🌐 Let's Connect
 
-I'm always open to connecting with fellow developers, sharing ideas, learning new technologies and exploring professional opportunities.
+I'm always interested in connecting with fellow developers, sharing ideas, learning new technologies and exploring professional opportunities.
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/RishniPerera](https://github.com/RishniPerera)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/RishniPerera?tab=repositories](https://github.com/RishniPerera?tab=repositories)">
-&#x20;   \<img src="[https://img.shields.io/badge/My_Projects-238636?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/My_Projects-238636?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishniPerera)
+
+[![My Projects](https://img.shields.io/badge/My_Projects-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishniPerera?tab=repositories)
 
 ---
 
@@ -145,13 +127,10 @@ I'm always open to connecting with fellow developers, sharing ideas, learning ne
 
 > "Great things are built one line of code at a time."
 
-\<p align="center">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=RishniPerera&label=PROFILE%20VISITORS&color=58A6FF&style=for-the-badge](https://komarev.com/ghpvc/?username=RishniPerera\&label=PROFILE%20VISITORS\&color=58A6FF\&style=for-the-badge)" alt="Profile Visitors" />
-\</p>
+![Profile Visitors](https://komarev.com/ghpvc/?username=RishniPerera&label=PROFILE%20VISITORS&color=58A6FF&style=for-the-badge)
 
-\<p align="center">
-&#x20; ⭐ \<b>Thanks for visiting my profile!\</b> ⭐
-&#x20; \<br/>
-&#x20; \<i>Keep creating. Keep learning. Keep building.\</i>
-\</p>
+⭐ **Thanks for visiting my profile!**
+
+*Keep creating. Keep learning. Keep building.*
+
 
